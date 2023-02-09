@@ -2,3 +2,7 @@
 config.php
 # PHPStorm
 .idea/
+# WorkBench
+data/cor_mvcprojetsV1.mwb.bak
+
+
